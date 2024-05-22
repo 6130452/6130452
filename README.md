@@ -5,7 +5,11 @@ Meu nome é jamily felix
 Estou estudando na Alura                                                                                        
 Estou me desenvolvendo na linguagem JavaScript                                                                                             
 Utilizo esse espaço para minha organização e compartilhamento                                          
-dos meu projetos desenvolvidos
+dos meu projetos desenvolvidos 
+
+**Você pode entrar em contato comigo** 📫                                                                                                       
+00001116130452sp@al.educacao.sp.gov.
+
 <!--
 **JAMILY FELIX/JAMILY FELIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
